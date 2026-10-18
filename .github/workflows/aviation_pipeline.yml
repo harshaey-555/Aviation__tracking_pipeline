@@ -23,4 +23,4 @@ jobs:
       - name: Run Pipeline
         env: 
           NEON_DB_URL: ${{ secrets.NEON_DB_URL }}
-        run: python new.py   
+        run: python pipeline.py   

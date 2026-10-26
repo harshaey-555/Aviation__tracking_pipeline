@@ -23,7 +23,7 @@ This project demonstrates practical skills in working with external REST APIs, r
 **1. Clone the repository**
 ```bash
 git clone https://github.com/harshaey-555/Aviation__tracking_pipeline.git
-cd Aviation__tracking_pipeline
+cd Aviation_tracking_pipeline
 ```
 
 **2. Create a virtual environment**
